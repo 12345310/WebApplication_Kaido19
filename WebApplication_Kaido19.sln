@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_Kaido19", "WebApplication_Kaido19\WebApplication_Kaido19.csproj", "{65B8E174-F8C1-489C-A817-FBA9C91CE19F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65B8E174-F8C1-489C-A817-FBA9C91CE19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B8E174-F8C1-489C-A817-FBA9C91CE19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B8E174-F8C1-489C-A817-FBA9C91CE19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B8E174-F8C1-489C-A817-FBA9C91CE19F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EB3FD92-20BD-4202-B08E-AB584D531747}
+	EndGlobalSection
+EndGlobal
